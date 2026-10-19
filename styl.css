@@ -35,7 +35,9 @@ ul{
     margin-right: 50px; }
 .dekorace{
     float: right;
-    padding: 10px;}
+    padding: 10px;
+    margin-bottom: 10px;}
 .fotka{
     float: left;
-    padding: 10px;}
+    padding: 10px;
+    margin-bottom: 10px;}
